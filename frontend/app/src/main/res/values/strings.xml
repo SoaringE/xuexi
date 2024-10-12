@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ComposeApp</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="title_activity_news_detail">NewsDetailActivity</string>
+</resources>
